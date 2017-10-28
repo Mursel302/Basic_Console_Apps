@@ -1,0 +1,6 @@
+c:\users\mirmursal\documents\visual studio 2017\Projects\GetSetMethod\GetSetMethod\bin\Debug\GetSetMethod.exe.config
+c:\users\mirmursal\documents\visual studio 2017\Projects\GetSetMethod\GetSetMethod\bin\Debug\GetSetMethod.exe
+c:\users\mirmursal\documents\visual studio 2017\Projects\GetSetMethod\GetSetMethod\bin\Debug\GetSetMethod.pdb
+c:\users\mirmursal\documents\visual studio 2017\Projects\GetSetMethod\GetSetMethod\obj\Debug\GetSetMethod.csprojResolveAssemblyReference.cache
+c:\users\mirmursal\documents\visual studio 2017\Projects\GetSetMethod\GetSetMethod\obj\Debug\GetSetMethod.exe
+c:\users\mirmursal\documents\visual studio 2017\Projects\GetSetMethod\GetSetMethod\obj\Debug\GetSetMethod.pdb

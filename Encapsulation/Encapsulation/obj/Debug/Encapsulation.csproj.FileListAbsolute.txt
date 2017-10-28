@@ -1,0 +1,6 @@
+c:\users\mirmursal\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+c:\users\mirmursal\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+c:\users\mirmursal\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+c:\users\mirmursal\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+c:\users\mirmursal\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+c:\users\mirmursal\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
